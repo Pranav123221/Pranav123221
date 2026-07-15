@@ -41,3 +41,22 @@ Building AI-powered solutions that solve real business problems through Machine 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,react,mongodb,postgres,vscode" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav123221&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav123221&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🚀 Currently Working On
+
+- 🤖 Machine Learning
+- 🧠 Generative AI
+- ⚙️ AI Agents
+- 🔄 n8n Automation
+- 🚀 FastAPI APIs
+- 💼 AI Solutions for Real Business Problems
