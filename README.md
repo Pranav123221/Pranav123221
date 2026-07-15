@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pranav+Sharma;Aspiring+Machine+Learning+Engineer;Building+AI-Powered+Business+Solutions;Generative+AI+%7C+AI+Agents+%7C+n8n+Automation" alt="Typing SVG" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Pranav Sharma</h1>
 
 
@@ -38,3 +36,8 @@ Building AI-powered solutions that solve real business problems through Machine 
 - 🎯 Goal: Build AI solutions that solve real business problems
 
 ---
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,react,mongodb,postgres,vscode" />
+</p>
