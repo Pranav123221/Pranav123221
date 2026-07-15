@@ -45,11 +45,7 @@ Building AI-powered solutions that solve real business problems through Machine 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranav123221&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav123221&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav123221&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 ## 🚀 Currently Working On
