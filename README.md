@@ -1,19 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pranav+Sharma;Aspiring+Machine+Learning+Engineer;Building+AI-Powered+Business+Solutions;Generative+AI+%7C+AI+Agents+%7C+n8n+Automation" alt="Typing SVG"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Pranav Sharma</h1>
-
 
 <h3 align="center">
 Aspiring Machine Learning Engineer | Generative AI | AI Agents | n8n
 </h3>
-
-<p align="center">
-Building AI-powered solutions that solve real business problems through Machine Learning and Intelligent Automation.
-</p>
-
-<p align="center">
-
-<a href="<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pranav+Sharma;Aspiring+Machine+Learning+Engineer;Building+AI-Powered+Business+Solutions;Generative+AI+%7C+AI+Agents+%7C+n8n+Automation" alt="Typing SVG" />
 </p>">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
