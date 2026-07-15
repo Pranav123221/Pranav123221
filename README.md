@@ -46,3 +46,12 @@ Building AI-powered solutions that solve real business problems through Machine 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Pranav123221&theme=tokyonight"/>
 </p>
+
+## 🚀 Currently Working On
+
+- 🤖 Machine Learning
+- 🧠 Generative AI
+- ⚙️ AI Agents
+- 🔄 n8n Automation
+- 🚀 FastAPI APIs
+- 💼 AI Solutions for Real Business Problems
