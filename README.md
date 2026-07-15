@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pranav Sharma</h1>
 
-<!--
-**Pranav123221/Pranav123221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Machine Learning Engineer | Generative AI | AI Agents | Python Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building AI-powered solutions that solve real business problems through Machine Learning and Intelligent Automation.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Pranav123221">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 🤖 Aspiring Machine Learning Engineer
+- 🌱 Currently learning Machine Learning, Generative AI & AI Agents
+- ⚡ Building AI-powered Business Automation Systems
+- 🐍 Python | FastAPI | n8n | Docker
+- 🎯 Goal: Build AI solutions that solve real business problems
+
+---
