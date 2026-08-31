@@ -31,6 +31,7 @@ Building AI-powered solutions that solve real business problems through Machine 
 - 🌱 Currently learning Machine Learning, Generative AI & AI Agents
 - ⚡ Building AI-powered Business Automation Systems
 - 🐍 Python | FastAPI | n8n | Docker
+- Fullstack web development  
 - 🎯 Goal: Build AI solutions that solve real business problems
 
 ---
