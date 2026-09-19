@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Pranav Sharma</h1>
+<h1 align="center">👋 Hi, I'm Pranav Sharma</h1>
 
 <h3 align="center">
-Aspiring Machine Learning Engineer | Generative AI | AI Agents | Python Developer
+🤖 Aspiring Machine Learning & AI Engineer | Building with AI, Data & Technology
+
+I'm a B.Tech Computer Science student passionate about Machine Learning, Deep Learning, Generative AI, and AI-powered applications. I'm currently building my skills by turning concepts into practical projects, experimenting with real-world datasets, and exploring how intelligent systems can solve meaningful problems.
+
+My learning journey is focused on going from Machine Learning → Deep Learning → NLP → Generative AI → MLOps, while strengthening my foundations in programming, data structures, and software engineering.
+
+🚀 I enjoy building projects, learning new technologies, experimenting with AI, and turning ideas into useful solutions. Alongside my technical journey, I'm also exploring AI automation, freelancing, and entrepreneurship with the long-term goal of building products and businesses around AI.
 </h3>
 
 <p align="center">
