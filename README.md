@@ -71,15 +71,6 @@ Building AI-powered solutions that solve real business problems through Machine 
 </p>
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav123221&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav123221&theme=tokyonight&hide_border=true" />
-
-</p>
 
 
 ---
@@ -100,3 +91,25 @@ Building AI-powered solutions that solve real business problems through Machine 
 - 🔄 n8n Automation
 - 🚀 FastAPI APIs
 - 💼 AI Solutions for Real Business Problems
+
+
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pranav-sharma-333b67338/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pranav123221">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sharmapranavsharma16@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
