@@ -75,10 +75,29 @@ Building AI-powered solutions that solve real business problems through Machine 
 <img src="https://streak-stats.demolab.com?user=Pranav123221&theme=tokyonight"/>
 </p>
 ---
-🏆GitHub Trophies
+## 🏆 GitHub Achievements & AI/ML Journey
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pranav123221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
+
+### 💻 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav123221&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 🤖 AI/ML Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Building-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Building-blue?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Exploring-orange?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-purple?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-black?style=for-the-badge" />
+</p>
+
 
 --
 
