@@ -48,10 +48,20 @@ Building AI-powered solutions that solve real business problems through Machine 
 
 ---
 
-## 🛠️ Tech Stack
+## 🖥️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,react,mongodb,postgres,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,react,nodejs,mongodb,mysql,postgresql,git,github,vscode,docker,fastapi,tensorflow,pytorch" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+
 </p>
 
 ## 🔥 GitHub Streak
