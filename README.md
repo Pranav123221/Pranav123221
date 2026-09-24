@@ -30,6 +30,10 @@ Building AI-powered solutions that solve real business problems through Machine 
 <img src="https://komarev.com/ghpvc/?username=Pranav123221&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 ---
+<img src="https://img.shields.io/github/followers/Pranav123221?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Pranav123221?label=Stars&style=for-the-badge" />
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Software+Engineer;Machine+Learning+Engineer;Building+AI+Systems" />
 </p>
