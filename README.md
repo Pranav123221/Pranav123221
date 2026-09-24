@@ -59,6 +59,11 @@ Building AI-powered solutions that solve real business problems through Machine 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Pranav123221&theme=tokyonight"/>
 </p>
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/Pranav123221/Pranav123221/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Currently Working On
 
