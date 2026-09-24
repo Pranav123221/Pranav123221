@@ -76,14 +76,12 @@ Building AI-powered solutions that solve real business problems through Machine 
 </p>
 ---
 ## 🚀 Building • Learning • Contributing
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav123221" />
-</p>
+
 
 ### 📈 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav123221&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav123221&theme=github-compact&hide_border=true" />
 </p>
 
 ### 🤖 AI/ML Journey
