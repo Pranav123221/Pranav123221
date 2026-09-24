@@ -27,11 +27,9 @@ Building AI-powered solutions that solve real business problems through Machine 
 </p>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=Pranav123221&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Pranav123221&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> , <img src="https://img.shields.io/github/followers/Pranav123221?label=Followers&style=for-the-badge" /> , <img src="https://img.shields.io/github/stars/Pranav123221?label=Stars&style=for-the-badge" />
 
----
-<img src="https://img.shields.io/github/followers/Pranav123221?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/Pranav123221?label=Stars&style=for-the-badge" />
+
 
 ---
 <p align="center">
