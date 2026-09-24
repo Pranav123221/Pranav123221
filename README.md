@@ -77,8 +77,6 @@ Building AI-powered solutions that solve real business problems through Machine 
 
 ## 🚀 Building • Learning • Contributing
 
-https://github-profile-trophy.vercel.app/?username=Pranav123221
-
 ### 🤖 AI/ML Journey
 
 <p align="center">
