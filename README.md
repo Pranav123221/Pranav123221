@@ -74,15 +74,14 @@ Building AI-powered solutions that solve real business problems through Machine 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Pranav123221&theme=tokyonight"/>
 </p>
----
+
 ## 🚀 Building • Learning • Contributing
-
-
 ### 📈 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav123221&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav123221&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
 
 ### 🤖 AI/ML Journey
 
