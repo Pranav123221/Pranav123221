@@ -76,10 +76,8 @@ Building AI-powered solutions that solve real business problems through Machine 
 </p>
 ---
 ## 🚀 Building • Learning • Contributing
-### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav123221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranav123221" />
 </p>
 
 ### 📈 Coding Activity
