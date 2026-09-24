@@ -75,10 +75,12 @@ Building AI-powered solutions that solve real business problems through Machine 
 <img src="https://streak-stats.demolab.com?user=Pranav123221&theme=tokyonight"/>
 </p>
 ---
+🏆GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranav123221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</p>
 
-
-
----
+--
 
 ## 🐍 Contribution 
 
