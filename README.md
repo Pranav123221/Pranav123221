@@ -71,6 +71,19 @@ Building AI-powered solutions that solve real business problems through Machine 
 </p>
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav123221&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav123221&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+---
+
 ## 🐍 Contribution 
 
 <p align="center">
