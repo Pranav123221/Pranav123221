@@ -113,3 +113,13 @@ Building AI-powered solutions that solve real business problems through Machine 
 </a>
 
 </p>
+
+---
+
+<p align="center">
+  💡 <b>"Learn. Build. Iterate. Repeat."</b>
+</p>
+
+<p align="center">
+  🚀 Turning ideas into intelligent systems through continuous learning and practical implementation.
+</p>
