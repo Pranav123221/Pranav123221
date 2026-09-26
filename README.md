@@ -24,6 +24,10 @@ Building AI-powered solutions that solve real business problems through Machine 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
+<a href="https://twitter.com/PranavShar1120">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
 </p>
 
 ---
