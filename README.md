@@ -37,7 +37,7 @@ Building AI-powered solutions that solve real business problems through Machine 
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Software+Engineer;Machine+Learning+Engineer;Building+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Emerging+AI+Software+Engineer;Aspiring+Machine+Learning+Engineer;Building+AI+Systems" />
 </p>
 
 
