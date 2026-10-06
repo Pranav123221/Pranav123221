@@ -7,7 +7,7 @@ I'm a B.Tech Computer Science student passionate about Machine Learning, Deep Le
 
 My learning journey is focused on going from Machine Learning → Deep Learning → NLP → Generative AI → MLOps, while strengthening my foundations in programming, data structures, and software engineering.
 
-🚀 I enjoy building projects, learning new technologies, experimenting with AI, and turning ideas into useful solutions. Alongside my technical journey, I'm also exploring AI automation, freelancing, and entrepreneurship with the long-term goal of building products and businesses around AI.
+🚀 I enjoy building projects, learning new technologies, experimenting with AI, and turning ideas into useful solutions.
 </h3>
 
 <p align="center">
