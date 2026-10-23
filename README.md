@@ -79,6 +79,14 @@ Building AI-powered solutions that solve real business problems through Machine 
 <img src="https://streak-stats.demolab.com?user=Pranav123221&theme=tokyonight"/>
 </p>
 
+
+
+### 📊 GitHub Activity Trends
+
+![Pranav123221's Activity Graph](https://vercel.app)
+
+
+
 ## 🚀 Building • Learning • Contributing
 
 ### 🤖 AI/ML Journey
