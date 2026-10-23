@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-**Machine Learning · Generative AI · AI Automation · Software Engineering**
+**Machine Learning · Generative AI  · Software Engineering**
 
 </div>
 
