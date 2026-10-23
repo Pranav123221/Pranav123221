@@ -37,20 +37,19 @@
 
 ## 👨‍💻 About Me
 
+**I'm a B.Tech Computer Science student focused on Machine Learning, Artificial Intelligence, and building practical AI-powered applications.**
 
-I'm a B.Tech Computer Science student focused on Machine Learning, Artificial Intelligence, and building practical AI-powered applications.
+**I enjoy turning theoretical concepts into working implementations, experimenting with real-world datasets, and exploring how intelligent systems can solve meaningful technical and business problems.**
 
-I enjoy turning theoretical concepts into working implementations, experimenting with real-world datasets, and exploring how intelligent systems can solve meaningful technical and business problems.
+**My learning journey focuses on progressing from foundational Machine Learning to Deep Learning, NLP, Generative AI, and production-oriented AI systems while strengthening my programming and software engineering skills.**
 
-My learning journey focuses on progressing from foundational Machine Learning to Deep Learning, NLP, Generative AI, and production-oriented AI systems while strengthening my programming and software engineering skills.
-
-- 🎓 B.Tech Computer Science student
-- 🤖 Emerging AI Software Engineer
-- 📊 Exploring predictive modeling and ensemble learning
-- 🧠 Learning Deep Learning, NLP, and Generative AI
-- ⚙️ Building AI-powered business automation workflows
-- 🛠️ Exploring FastAPI, Docker, and ML deployment
-- 🌱 Learning through practical projects and experiments
+- 🎓 **B.Tech Computer Science student**
+- 🤖 **Emerging AI Software Engineer**
+- 📊 **Exploring predictive modeling and ensemble learning**
+- 🧠 **Learning Deep Learning, NLP, and Generative AI**
+- ⚙️ **Building AI-powered business automation workflows**
+- 🛠️ **Exploring FastAPI, Docker, and ML deployment**
+- 🌱 **Learning through practical projects and experiments**
 
 </div>
 
