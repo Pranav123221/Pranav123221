@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Pranav%20Sharma&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Automation&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Pranav Sharma profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Pranav%20Sharma&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Automation&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Pranav Sharma profile banner"/>
 
 <br/>
 
