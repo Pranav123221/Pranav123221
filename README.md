@@ -136,7 +136,7 @@ My learning journey focuses on progressing from foundational Machine Learning to
 
 My learning roadmap:
 
-`Machine Learning` → `Deep Learning` → `NLP` → `Transformers` → `Generative AI` → `RAG & AI Agents` → `MLOps`
+`Machine Learning` → `Deep Learning` → `NLP` → `Transformers` → `Generative AI` → `RAG ` → `MLOps`
 
 My focus is on developing a strong technical foundation and progressively translating what I learn into practical implementations.
 
