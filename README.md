@@ -2,11 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Pranav%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=Machine%20Learning%20%7C%20AI%20Engineering%20%7C%20Intelligent%20Automation&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Animated profile banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+Machine+Learning+%26+AI+Engineer;Exploring+Deep+Learning+%26+Generative+AI;Building+AI-Powered+Applications;Experimenting+with+Data+%26+Intelligent+Systems;Building+AI+Systems" alt="Animated typing introduction"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Pranav%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineering%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Automation&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Pranav Sharma profile banner"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Emerging+AI+Software+Engineer;Aspiring+Machine+Learning+Engineer;Exploring+Deep+Learning+%26+Generative+AI;Building+AI-Powered+Applications;Building+AI+Systems" alt="Animated titles: Emerging AI Software Engineer, Machine Learning, Generative AI, and AI Systems"/>
+
+<br/><br/>
 
 <a href="https://github.com/Pranav123221">
 <img src="https://img.shields.io/badge/GitHub-Pranav123221-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -24,11 +26,17 @@
 <img src="https://img.shields.io/github/followers/Pranav123221?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub followers"/>
 <img src="https://img.shields.io/github/stars/Pranav123221?label=TOTAL%20STARS&style=for-the-badge&color=yellow" alt="GitHub stars"/>
 
+<br/><br/>
+
+**Machine Learning · Generative AI · AI Automation · Software Engineering**
+
 </div>
 
 ---
+<div align="center">
 
-## 🤖 About Me
+## 👨‍💻 About Me
+
 
 I'm a B.Tech Computer Science student focused on Machine Learning, Artificial Intelligence, and building practical AI-powered applications.
 
@@ -37,12 +45,15 @@ I enjoy turning theoretical concepts into working implementations, experimenting
 My learning journey focuses on progressing from foundational Machine Learning to Deep Learning, NLP, Generative AI, and production-oriented AI systems while strengthening my programming and software engineering skills.
 
 - 🎓 B.Tech Computer Science student
-- 🤖 Aspiring Machine Learning & AI Engineer
-- 📊 Exploring data analysis, predictive modeling, and ensemble learning
+- 🤖 Emerging AI Software Engineer
+- 📊 Exploring predictive modeling and ensemble learning
 - 🧠 Learning Deep Learning, NLP, and Generative AI
 - ⚙️ Building AI-powered business automation workflows
 - 🛠️ Exploring FastAPI, Docker, and ML deployment
-- 🌱 Continuously learning through practical projects and experiments
+- 🌱 Learning through practical projects and experiments
+
+</div>
+
 
 <div align="center">
 
