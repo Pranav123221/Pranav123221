@@ -81,18 +81,6 @@ Building AI-powered solutions that solve real business problems through Machine 
 
 
 
-### 📅 My GitHub Contribution Graph
-
-[![Pranav123221's Commit Graph](https://vercel.app)](https://github.com)
-
----
-
-### 📈 Last 31 Days Activity Line Graph
-
-![Pranav123221's Activity Wave](https://vercel.app)
-
-
-
 ## 🚀 Building • Learning • Contributing
 
 ### 🤖 AI/ML Journey
